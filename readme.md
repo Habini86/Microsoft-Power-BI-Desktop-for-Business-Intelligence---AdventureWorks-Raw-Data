@@ -26,16 +26,21 @@ This repository contains a complete Business Intelligence solution for the Adven
 ## Features
 
 - **Data Model:**  
-  Well-structured star schema with dimension and fact tables, including calendar, customer, product, and sales data.
+  Star schema with dimension and fact tables, including calendar, customer, product, territory, and sales data.
 
 - **ETL Process:**  
   Power Query (M) scripts for importing, cleaning, and transforming raw CSV data.
 
-- **Interactive Reports:**  
-  Power BI reports with customizable visuals, filters, and themes.
+- **Report Structure:**  
+  Power BI report file is created and ready for visualizations. (No visuals have been added yet.)
+
+- **Custom Theme:**  
+  Includes a custom Power BI theme for consistent report styling.
 
 - **Open Source:**  
   Licensed under the MIT License.
+
+> **Note:** The Power BI report structure is set up, but no visuals or DAX measures have been added yet. The project currently focuses on data modeling and ETL.
 
 ## Getting Started
 
