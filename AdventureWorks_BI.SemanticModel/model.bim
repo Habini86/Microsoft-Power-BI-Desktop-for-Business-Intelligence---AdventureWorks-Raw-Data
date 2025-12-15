@@ -202,6 +202,7 @@
             "summarizeBy": "none"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "4287d1d1-7a67-4f60-ad6b-150933772ac1",
         "partitions": [
           {
@@ -408,6 +409,7 @@
             "summarizeBy": "sum"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "4e41ab29-d6fa-4b77-bea2-59e20b67ad36",
         "partitions": [
           {
@@ -474,6 +476,7 @@
             "summarizeBy": "none"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "c035148a-60ba-4abe-8908-3cf8054072a0",
         "partitions": [
           {
@@ -548,6 +551,7 @@
             "summarizeBy": "count"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "a1d21606-2840-465a-b818-7a94bfe67c3b",
         "partitions": [
           {
@@ -784,6 +788,7 @@
             "summarizeBy": "none"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "76022908-668b-4971-a217-b7cf363f2501",
         "partitions": [
           {
@@ -970,6 +975,7 @@
             "summarizeBy": "sum"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "0d11e9d8-a158-44bd-8ea6-9e055b520d3a",
         "partitions": [
           {
@@ -1081,6 +1087,7 @@
             "summarizeBy": "none"
           }
         ],
+        "excludeFromModelRefresh": true,
         "lineageTag": "0cfd2ae0-51fb-4d55-8932-f00ddc7fdfee",
         "partitions": [
           {
